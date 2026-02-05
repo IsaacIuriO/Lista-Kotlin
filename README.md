@@ -65,3 +65,9 @@
 - 59: https://pl.kotl.in/WVDrq1CFF 
 
 - 60: https://pl.kotl.in/b6yDxk05c
+
+## Atividade 01: Lógica de Programação - IMC e Sistema de Construção
+
+- 1: https://pl.kotl.in/hCS3vIHjZ
+
+- 2: https://pl.kotl.in/jkZK7UEeg
